@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# For now ignore massive asset files
+Content/TwinmotionMaterials
+Content/StarterContent
